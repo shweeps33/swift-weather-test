@@ -1,5 +1,5 @@
 //
-//  Protocols.swift
+//  WeatherFetchable.swift
 //  SwiftForecastTest
 //
 //  Created by David on 25.04.2020.
